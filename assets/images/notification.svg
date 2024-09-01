@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_62428" data-name="Group 62428" transform="translate(-330 -65)">
+    <circle id="Ellipse_233" data-name="Ellipse 233" cx="20" cy="20" r="20" transform="translate(330 65)" fill="rgba(39,66,104,0.06)"/>
+    <g id="Group_62421" data-name="Group 62421" transform="translate(340 73)">
+      <path id="icons8_alarm" d="M13.538,3A1.832,1.832,0,0,0,11.72,4.846v.27a6.45,6.45,0,0,0-4.545,6.191v2.546a9.527,9.527,0,0,1-2.727,6.685.923.923,0,0,0,0,1.846H22.629a.923.923,0,0,0,0-1.846A9.527,9.527,0,0,1,19.9,13.853V11.308a6.45,6.45,0,0,0-4.545-6.191v-.27A1.832,1.832,0,0,0,13.538,3ZM10.811,24.231a2.728,2.728,0,1,0,5.455,0Z" transform="translate(-3.538 -3)" fill="#5d718d"/>
+      <g id="Group_55119" data-name="Group 55119" transform="translate(10.466)">
+        <circle id="Ellipse_230" data-name="Ellipse 230" cx="4.767" cy="4.767" r="4.767" transform="translate(0)" fill="#ff3b30"/>
+      </g>
+    </g>
+  </g>
+</svg>

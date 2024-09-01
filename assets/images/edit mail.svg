@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_234234" data-name="Group 234234" transform="translate(-252 -161)">
+    <g id="Ellipse_254" data-name="Ellipse 254" transform="translate(252 161)" fill="#e4e5e8" stroke="#e4e5e8" stroke-width="1" opacity="0">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15.5" fill="none"/>
+    </g>
+    <path id="icons8-composing_mail" d="M4,4A2,2,0,0,0,2,6V18a2,2,0,0,0,2,2H16.188l-2-2H4V9l8,5,8-5v5.18l2,1.984V6a2,2,0,0,0-2-2ZM4,6H20V7l-8,5L4,7Zm11,8v2l5.146,5.146,2-2L17,14Zm7.854,5.854-2,2,1,1a.5.5,0,0,0,.707,0l1.293-1.293a.5.5,0,0,0,0-.707Z" transform="translate(255 164)" fill="#0075f4"/>
+  </g>
+</svg>
